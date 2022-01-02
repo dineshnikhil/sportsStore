@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sportsStore/static/css/main.cba34e39.css",
+    "main.js": "/sportsStore/static/js/main.05638729.js",
+    "static/js/787.7adbedea.chunk.js": "/sportsStore/static/js/787.7adbedea.chunk.js",
+    "static/media/img4.jpeg": "/sportsStore/static/media/img4.80d1cfec6584be8fd3f9.jpeg",
+    "static/media/img2.jpeg": "/sportsStore/static/media/img2.ead811e84038fc3c267e.jpeg",
+    "static/media/img1.jpeg": "/sportsStore/static/media/img1.610e999e9b2358ef7750.jpeg",
+    "static/media/img3.jpeg": "/sportsStore/static/media/img3.4c9d0a9f56939099118e.jpeg",
+    "static/media/img5.jpeg": "/sportsStore/static/media/img5.04d40bf569c496807f25.jpeg",
+    "static/media/logo.svg": "/sportsStore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sportsStore/index.html",
+    "main.cba34e39.css.map": "/sportsStore/static/css/main.cba34e39.css.map",
+    "main.05638729.js.map": "/sportsStore/static/js/main.05638729.js.map",
+    "787.7adbedea.chunk.js.map": "/sportsStore/static/js/787.7adbedea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba34e39.css",
+    "static/js/main.05638729.js"
+  ]
+}
