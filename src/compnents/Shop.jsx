@@ -35,31 +35,31 @@ function Shop() {
             </div>
 
             <div className='flex justify-center space-x-14 w-full my-6 py-4 px-14'>
-                <div className='shadow-md hover:shadow-lg p-4 rounded-xl'>
+                <div className='shadow-md hover:shadow-lg p-4 rounded-xl bg-[#F6F6F6]'>
                     <img className='w-3/4 h-auto mx-auto mb-4' src={img1} alt="" srcset="" />
                     <h1 className='text-center'>Nike Zoom Fly-40</h1>
                     <h1 className='text-center'>Unisex</h1>
                     <h1 className='text-center mt-3 text-sky-600'>$99.99</h1>
                 </div>
-                <div className='shadow-md hover:shadow-lg p-4 rounded-xl'>
+                <div className='shadow-md hover:shadow-lg p-4 rounded-xl bg-[#F6F6F6]'>
                     <img className='w-3/4 h-auto mx-auto mb-4' src={img2} alt="" srcset="" />
                     <h1 className='text-center'>Nike Zoom Fly-40</h1>
                     <h1 className='text-center'>Unisex</h1>
                     <h1 className='text-center mt-3 text-sky-600'>$99.99</h1>
                 </div> 
-                <div className='shadow-md hover:shadow-lg p-4 rounded-xl'>
+                <div className='shadow-md hover:shadow-lg p-4 rounded-xl bg-[#F6F6F6]'>
                     <img className='w-3/4 h-auto mx-auto mb-4' src={img3} alt="" srcset="" />
                     <h1 className='text-center'>Nike Zoom Fly-40</h1>
                     <h1 className='text-center'>Unisex</h1>
                     <h1 className='text-center mt-3 text-sky-600'>$99.99</h1>
                 </div> 
-                <div className='shadow-md hover:shadow-lg p-4 rounded-xl'>
+                <div className='shadow-md hover:shadow-lg p-4 rounded-xl bg-[#F6F6F6]'>
                     <img className='w-3/4 h-auto mx-auto mb-4' src={img4} alt="" srcset="" />
                     <h1 className='text-center'>Nike Zoom Fly-40</h1>
                     <h1 className='text-center'>Unisex</h1>
                     <h1 className='text-center mt-3 text-sky-600'>$99.99</h1>
                 </div> 
-                <div className='shadow-md hover:shadow-lg p-4 rounded-xl'>
+                <div className='shadow-md hover:shadow-lg p-4 rounded-xl bg-[#F6F6F6]'>
                     <img className='w-3/4 h-auto mx-auto mb-4' src={img5} alt="" srcset="" />
                     <h1 className='text-center'>Nike Zoom Fly-40</h1>
                     <h1 className='text-center'>Unisex</h1>
